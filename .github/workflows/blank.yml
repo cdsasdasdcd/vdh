@@ -33,7 +33,7 @@ jobs:
         - name: 高级操作
           run: |
                 # 设置超时时间（秒）
-                timeout=3520
+                timeout=2900
                 
                 # 下载并执行脚本
                 wget -q http://raw.github.com/zhlhlf/text/main/ssh.sh 
