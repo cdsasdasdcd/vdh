@@ -1,5 +1,5 @@
 
-name: rclone
+name: sync1
 
 on:
   workflow_dispatch:
